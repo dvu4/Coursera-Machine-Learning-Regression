@@ -1,1 +1,1 @@
-# ml_regression
+# Coursera-Machine-Learning-Regression
